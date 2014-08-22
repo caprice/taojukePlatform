@@ -7,3 +7,13 @@
 
 官方地址：http://www.taojuk.com
 
+
+
+
+技术架构
+
+===============
+
+采用Spring4 + MyBatis3 + Maven架构。
+
+实现SpringMVC
